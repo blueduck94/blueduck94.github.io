@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Problem Solving - Tag -  Nguyen Van Long</title>
+        <link>https://blueduck94.github.io/tags/problem-solving/</link>
+        <description>Problem Solving - Tag -  Nguyen Van Long</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://blueduck94.github.io/tags/problem-solving/" rel="self" type="application/rss+xml" /><item>
+    <title>Journey To The Moon</title>
+    <link>https://blueduck94.github.io/posts/journey-to-the-moon/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://blueduck94.github.io/posts/journey-to-the-moon/</guid>
+    <description><![CDATA[<p>This article offers a sample of basic Markdown syntax that can be used in Hugo content files.</p>]]></description>
+</item></channel>
+</rss>
