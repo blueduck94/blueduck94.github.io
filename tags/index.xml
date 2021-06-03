@@ -1,0 +1,28 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag -  Nguyen Van Long</title>
+        <link>https://blueduck94.github.io/tags/</link>
+        <description>Tags - Tag -  Nguyen Van Long</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://blueduck94.github.io/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Hugo</title>
+    <link>https://blueduck94.github.io/tags/hugo/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://blueduck94.github.io/tags/hugo/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Template</title>
+    <link>https://blueduck94.github.io/tags/template/</link>
+    <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://blueduck94.github.io/tags/template/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Emoji</title>
+    <link>https://blueduck94.github.io/tags/emoji/</link>
+    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://blueduck94.github.io/tags/emoji/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
